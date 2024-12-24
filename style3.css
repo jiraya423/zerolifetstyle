@@ -1,0 +1,187 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.border{
+    height: 420px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 0% auto;
+   
+}
+.red{
+    height:100px ;
+    width: 100%;
+    background-color: red;
+    position: relative;
+}
+.box{
+    height: 70px;
+    width: 70px;
+    background-color: bisque;
+    position: absolute;
+    top: 15px;
+    border-radius: 10px;
+
+}
+.box1{
+right: 10px;
+}
+.box2{
+right: 89px;
+}
+.box3{
+right:169px ;
+}
+.box4{
+right: 249px;
+}
+.black{
+    height: 35px;
+    width: 400px;
+    background-color: black;
+    position: relative;
+}
+.green{
+    height: 35px;
+    width: 400px;
+    background-color: green;
+    position: absolute;
+    right: 105px;
+    top: 101px;
+}
+.color li{
+    color: white;
+    list-style-type: none;
+    position: absolute;
+}
+.home{
+    position: absolute;
+left:30px;
+top:10px
+}
+.news{
+    position: absolute;
+left:80px;
+top:10px
+}
+.contact{
+    position: absolute;
+left:130px;
+top:10px
+}
+.about{
+    position: absolute;
+left:190px;
+top:10px
+}
+.brown{
+    height:164px ;
+    width:799px ;
+    background-color: blanchedalmond;
+}
+.black2{
+    height:149px;
+    width:718px ;
+    background-color: black;
+    position: relative;
+    top: 7px;
+    left: 47px;
+    border-radius: 5px;
+}
+.blue{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    position: absolute;
+    top: 119px;
+    border-radius:5px ;
+}
+.yellow{
+height: 11px;
+width: 70px;
+background-color: yellow;
+position: relative;
+top: 85px;
+border-radius: 3px;
+}
+.yellow1{
+left: 109px;
+}
+.yellow2{
+left: 17px;
+top:73px
+}
+.white{
+    height:124px ;
+    width:111px ;
+    background-color: aliceblue;
+    position: absolute;
+    top: -110px;
+    left: 504px;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+.white2{
+    height:124px ;
+    width:111px ;
+    background-color: aliceblue;
+    position: absolute;
+    top: -97px;
+    left: 457px;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+.pink{
+    height: 120px;
+    width: 368px;
+    background-color: palevioletred;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+}
+.orange{
+    height:78px;
+    width: 223px;
+    background-color: orange;
+    position: absolute;
+    top: 42px;
+    left: 60px;
+    border-radius: 3px;
+}
+.boxx{
+    height:106px ;
+    width: 307px;;
+    background-color:skyblue ;
+    position: relative;
+    top: -113px;
+    left: 430px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+.boxxx{
+    height:30px ;
+    width: 100%;
+    background-color: black;
+}
+.color li{
+    color: white;
+    list-style-type: none;
+    position: absolute;
+}
+.home{
+    position: absolute;
+left:3000px;
+top:10px
+}
+.news{
+    position: absolute;
+left:60px;
+top:10px
+}
+.contact{
+    position: absolute;
+left:100px;
+top:10px}
